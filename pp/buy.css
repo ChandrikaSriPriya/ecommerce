@@ -1,0 +1,15 @@
+body{
+    padding: 25px;
+  }
+  .title {
+      color: #5C6AC4;
+  }
+  #heading{
+    background-color:deeppink;
+  }
+  .main{
+    background-color:pink;
+  }
+  #btn{
+    background-color:deeppink;
+  }

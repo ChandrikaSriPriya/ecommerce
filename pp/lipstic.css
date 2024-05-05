@@ -1,0 +1,25 @@
+.main{
+    background-color:lightpink;
+    padding: 20px;
+}
+.head{
+    color:darkblue;
+}
+#but{
+height: 30px;
+width:150px;
+background-color: deeppink;
+color:white;
+border-radius: 10px;
+text: size 10px;
+border-collapse: collapse;
+}
+#sub{
+    height: 30px;
+width:100px;
+background-color: deeppink;
+color:white;
+border-radius: 10px;
+text: size 10px;
+border-collapse: collapse;
+}

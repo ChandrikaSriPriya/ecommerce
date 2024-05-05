@@ -1,0 +1,15 @@
+.gallery{
+    display:flex;
+    border: 10px solid lightpink;
+    flex-wrap: wrap;
+    column-gap: 1em;
+    row-gap: 1em;
+    justify-content: space-evenly;
+    background-color: lightpink;
+}
+.item1, .item2, .item3, .item4, .item5, .item6, .item7, .item8, .item9, .item10, .item11, .item12{
+    width:400px;
+    height:400px;
+    text-align: center;
+    border-radius: 10px;
+}
